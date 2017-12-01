@@ -1,2 +1,3 @@
-# code_scan_archetype
-Visual Code Scanner Archetype for Android
+# Code Scan Archetype for Android
+
+Generic archetype to manage and scan multiple visual codes
